@@ -237,3 +237,28 @@ input[type=submit] {
   background: #4aaaa5;
   border: 0 none;
 }
+
+/* Media  max-width 980px*/
+
+@media screen and (max-width: 980px) {
+body {
+background-color: lightgreen;}
+
+}
+
+/* Media max-width 768px */
+@media screen and (max-width: 768px) {
+body {
+background-color: lightblue;}
+
+
+}
+
+/* Media max-width 640px */
+@media screen and (max-width: 640px) {
+body {
+background-color: lightblue;}
+
+
+}
+
