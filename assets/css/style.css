@@ -358,6 +358,37 @@ footer {
 
 }
 
+.work {
+  position: relative;
+  float: left;
+  width: 200px;
+  margin: 5px 0 10px;
+  overflow: auto;
+
+}
+.work img {
+  width: 100%;
+  border: 0 none;
+  opacity: 0.8;
+  
+
+}
+
+.work h3 {
+  position: absolute;
+  bottom: 20px;
+  width: 100%;
+  padding: 15px;
+  margin-bottom: 0;
+  font-weight: 300;
+  line-height: 5px;
+  color: #fff;
+  text-align: center;
+  background: #4aaaa5;
+  border-bottom: 0;
+}
+
+
 
 }
 
