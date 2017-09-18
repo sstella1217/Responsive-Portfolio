@@ -478,6 +478,10 @@ footer {
   border-top: 8px solid #4aaaa5;
 }
 
+textarea {
+  height: 120px;
+}
+
 }
   
 
